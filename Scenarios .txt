@@ -1,0 +1,54 @@
+Scenarios : 
+
+
+Blaze Demo Register : 
+
+1.Verify that when User clicks on the Register Link, it should be able to open to Register Home Page . 
+2. As it is a registration page all the fields should have asterick mark (in red) just besides all the fields which means every of the Field is mandatory to be filled.
+2. Verify that when user fills in all the valid information on the  register page then User should be able to register on the Blaze demo Site. 
+3.Verify that the User a link (Registration) should be sen on the mail id of the User once Uer registers to the website.
+4.Verify that if an invalid email id is set at the registration page then it should not allow the register the User and throw a Error message saying Invalid Mail ID
+5.Verify that is Uer while Registration doesnt Enter the Name and hit the registration button with all the other details , it should throw and error message saying Name field Required.
+6.Verify that is Uer while Registration doesnt Enter the Company Name and hit the registration button with all the other details , it should throw and error message saying Name field Required.
+8.Verify that if the password and Confirm Password dont match , User should not be allowed to register on the webisite.
+9.Verify that User follows al the password guidelines to Enter the Webiste. 
+10.Verify that User should be navigated the Travel the Workd Page ,when User clicks on the Blaze Demo Link 
+11. While registering , if the browser is lclosed or the Internet connection is lost then , once the user refresh the page or reopen the link,all the details should be blank.
+2. User should not be allowed to Copy paste the password in the Confirm Password Text box. 
+13. Verify that if the User has already registered in the Webiste with avalid mail id, it should not allowed to register with the same mail id the second time. 
+14. user should be allowed to only register the webiste for the second time only if the First Profile created is deleted sucessfully by the User.
+15. Once User registers and enters the webiste and clikc the back button on the browser , all the Information should be blank.
+16. While Entering the Name , Special characters should not be allowed .
+
+Blaze Demo Login Page : 
+
+1. Verify that user is able to login to the Blaze demo webiste with a valid mail id and password which is registerd on the website.
+2.Verify that User should not be abllowed to login inside the system with invalid email id .
+3.Verify that User should not be abllowed to login inside the system with valid email id and invalid password. 
+4.Verify that if user has clicked Remeber me option, then once User type a word in them mail id password, it should remember its Login ID and password. 
+5. Verify that if the Valid Mail id is entered by the User but it is not register then User should be thrown a message saying that the User is not registered. 
+6.Verify that the User has forgotten the password and clicks on the Forgot your password Link then User should be redirected to the Forgotten password Link. 
+7. Verify that Once User has resetted the password then User should be able to Login the new Password .
+8. While Loggin in the Internet connection is lost or the browser is closed , all the details entered while loggin in should be blank. 
+9. Verify that User should be navigated the Travel the Workd Page ,when User clicks on the Blaze Demo Link.
+
+Travel the World Page : 
+
+1. Veruf that User is able to Find flights when User click on the Find Flight Button. 
+2. Verify that the User is able to Book the flight when all the infrmation is filled for e.g 	Name , State ,City, Zip Code etc. 
+3 Once User enters all the fields,and click on the Purchase Flight then User should be able to Purchase the lfight with Time , Auth Code, Booking Id ,Status, Amount etc. 
+4. Verify that when the User clicks on the 'destination of the week! The Beach!' then the user should be able to navigate to Destination of the Week page. 
+5. Verfy that the all the fields on the booking page should have mandatory asterick mark on it. 
+6.Verify that if the User has not entred al the information in the required field and clicks the Purchase Option then missed info feilds should be highlgted in red  with a message t the top saying it should be filled. 
+7.Verify that when User clicks on the Remeber Me Option and Enter all the details while booking, Second time all the information should be automatically filled. 
+8. Verify that while entering the Credit Card Number the Few of the Digits should be entered with the XX mark and the not the full credit card numbers on it .
+10.Verify that if User enters the wrong Credit Card type and Credit number , it should throw an error saying Credit Card Number is incorrect. 
+11.Vefify that while entering the Name, specials charasters should be allowed. 
+12. SPecial Character should be allowed  for Adress Feilds. 
+13.Verify that the Name on the Card, Month ,Date should not mismatch with the Card Details entered by the User. 
+14.If there is a fraud on the credit Card and the new Credit number is generated then the Old Infirmation filled by the USer should be considred and null and void.
+15. 
+
+
+
+
